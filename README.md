@@ -1,8 +1,8 @@
 <!-- Cabeçalho com uma animação de onda -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=13678A&height=120&section=header"/>
 
-<!-- Mensagem de boas-vindas com animação de texto -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=45C4B0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+João+Victor;Tenho+X+anos;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+<!-- Mensagem de boas-vindas com efeito de digitação -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF5733&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+João+Victor;Sou+um+desenvolvedor+e+estudante;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ---
 
@@ -58,7 +58,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsYY8BXnSRp9Efa/giphy.gif" alt="Animação Legal"/>
+  <img src="https://media.giphy.com/media/3o6Mbf0vwB2RR2qA6s/giphy.gif" alt="Efeito de Salto"/>
 </p>
 
 ---
