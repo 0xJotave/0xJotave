@@ -1,5 +1,5 @@
 <!-- Cabeçalho com uma animação de onda -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=13678A&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b31b1b&height=120&section=header"/>
 
 <!-- Mensagem de boas-vindas com efeito de digitação -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF5733&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+João+Victor;Sou+um+desenvolvedor+e+estudante;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
@@ -57,10 +57,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Mbf0vwB2RR2qA6s/giphy.gif" alt="Efeito de Salto"/>
-</p>
-
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=13678A&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b31b1b&height=120&section=footer"/>
