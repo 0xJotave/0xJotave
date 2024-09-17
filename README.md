@@ -11,8 +11,7 @@
 - 🎓 Possuo um **Técnico em Informática** pelo **Instituto Federal da Paraíba (IFPB) - Campus Esperança**
 - 🌍 Falo **Português** nativamente e tenho nível **intermediário/avançado (B2 Upper Intermediate)** em **Inglês** (Certificação: **EF SET English Certificate**)
 - 💬 Pergunte-me sobre **Desenvolvimento Backend com Java e Python**, **Docker e Conteinerização de Aplicações**, **Boas Práticas de Código**
-- 📫 Como me encontrar: **joaovmb15@gmail.com**
-
+  
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -52,8 +51,4 @@
   <a href="mailto:joaovmb15@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsYY8BXnSRp9Efa/giphy.gif" alt="Animação Legal"/>
 </p>
