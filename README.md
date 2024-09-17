@@ -1,4 +1,3 @@
-<!-- Cabeçalho com uma saudação e talvez uma imagem divertida ou profissional -->
 <h1 align="center">Olá! Eu sou João Victor 👋</h1>
 
 <p align="center">
@@ -8,9 +7,10 @@
 ---
 
 ## 👨‍💻 Sobre mim
-
-- 🌱 Estudando **[Tecnologia/Área de estudo atual]**
-- 💬 Pergunte-me sobre **[Suas habilidades principais ou tópicos de interesse]**
+- 🌱 Estudando **Análise e Desenvolvimento de Sistemas** no **Instituto Federal da Paraíba (IFPB) - Campus Esperança**
+- 🎓 Possuo um **Técnico em Informática** pelo **Instituto Federal da Paraíba (IFPB) - Campus Esperança**
+- 💬 Pergunte-me sobre **Desenvolvimento Backend com Java e Python**, **Docker e Conteinerização de Aplicações**, **Boas Práticas de Código**
+- 🌍 Falo **Português** nativamente e tenho nível **intermediário/avançado (B2 Upper Intermediate)** em **Inglês** (Certificação: **EF SET English Certificate**)
 - 📫 Como me encontrar: **joaovmb15@gmail.com**
 
 ---
@@ -18,7 +18,8 @@
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="left">
-  <!-- Adicione ícones representando as tecnologias que você utiliza -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
@@ -45,12 +46,10 @@
 ## 📫 Entre em contato comigo:
 
 <p align="left">
-  <!-- Links para suas redes sociais e contatos -->
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-moura-barbosa-9a683831a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:joaovmb15@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- Adicione mais formas de contato -->
 </p>
