@@ -1,8 +1,8 @@
-<h1 align="center">Olá! Eu sou João Victor 👋</h1>
+<!-- Cabeçalho com uma animação de onda -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=13678A&height=120&section=header"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eujotave&color=blue" alt="Contador de Visualizações"/>
-</p>
+<!-- Mensagem de boas-vindas com animação de texto -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=45C4B0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+João+Victor;Tenho+X+anos;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 ---
 
@@ -11,7 +11,8 @@
 - 🎓 Possuo um **Técnico em Informática** pelo **Instituto Federal da Paraíba (IFPB) - Campus Esperança**
 - 🌍 Falo **Português** nativamente e tenho nível **intermediário/avançado (B2 Upper Intermediate)** em **Inglês** (Certificação: **EF SET English Certificate**)
 - 💬 Pergunte-me sobre **Desenvolvimento Backend com Java e Python**, **Docker e Conteinerização de Aplicações**, **Boas Práticas de Código**
-  
+- 📫 Como me encontrar: **joaovmb15@gmail.com**
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -27,10 +28,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eujotave&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujotave&layout=compact&langs_count=8&theme=radical" alt="Linguagens mais usadas"/>
-</p>
+</div>
 
 ---
 
@@ -44,11 +45,22 @@
 
 ## 📫 Entre em contato comigo:
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-moura-barbosa-9a683831a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:joaovmb15@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://instagram.com/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsYY8BXnSRp9Efa/giphy.gif" alt="Animação Legal"/>
 </p>
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=13678A&height=120&section=footer"/>
