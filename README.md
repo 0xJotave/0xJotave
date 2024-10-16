@@ -10,7 +10,7 @@
 - 🌱 Graduando **Análise e Desenvolvimento de Sistemas** no **Instituto Federal da Paraíba (IFPB) - Campus Esperança**
 - 🎓 Possuo um **Técnico em Informática** pelo **Instituto Federal da Paraíba (IFPB) - Campus Esperança**
 - 🌍 Falo **Português** nativamente e tenho nível **intermediário/avançado (B2 Upper Intermediate)** em **Inglês** (Certificação: **EF SET English Certificate**)
-- 💬 Pergunte-me sobre **Desenvolvimento Backend com Java e Python**, **Docker e Conteinerização de Aplicações**, **Boas Práticas de Código**
+- 💬 Pergunte-me sobre **Desenvolvimento Backend com Java, Python e Go**, **Docker e Conteinerização de Aplicações**, **Boas Práticas de Código**
 
 ---
 
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 </p>
 
 ---
