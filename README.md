@@ -30,8 +30,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eujotave&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujotave&layout=compact&langs_count=8&theme=radical" alt="Linguagens mais usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xJotave&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xJotave&layout=compact&langs_count=8&theme=radical" alt="Linguagens mais usadas"/>
 </div>
 
 ---
@@ -39,7 +39,7 @@
 ## 🏆 Troféus GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eujotave&theme=darkhub" alt="Troféus do GitHub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=0xJotave&theme=darkhub" alt="Troféus do GitHub"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{0xPedrop}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{0xJotave}/count.svg" /></p> 
 <br>
 </div>
 
