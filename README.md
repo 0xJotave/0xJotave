@@ -9,7 +9,7 @@
 ## 👨‍💻 Sobre mim
 - 🌱 Graduando **Análise e Desenvolvimento de Sistemas** no **Instituto Federal da Paraíba (IFPB) - Campus Esperança**
 - 🎓 Possuo um **Técnico em Informática** pelo **Instituto Federal da Paraíba (IFPB) - Campus Esperança**
-- 🌍 Falo **Português** nativamente e tenho nível **intermediário/avançado (B2 Upper Intermediate)** em **Inglês** (Certificação: **EF SET English Certificate**)
+- 🌍 Falo **Português** nativamente e tenho nível **Intermediário/Avançado (B2 Upper Intermediate)** em **Inglês** (Certificação: **EF SET English Certificate**)
 - 💬 Pergunte-me sobre **Desenvolvimento Backend com Java, Python e Go**, **Docker e Conteinerização de Aplicações**, **Boas Práticas de Código**
 
 ---
