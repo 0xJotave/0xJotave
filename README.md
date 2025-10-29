@@ -10,7 +10,7 @@
 - 🌱 Graduando **Análise e Desenvolvimento de Sistemas** no **Instituto Federal da Paraíba (IFPB) - Campus Esperança**
 - 🎓 Possuo um **Técnico em Informática** pelo **Instituto Federal da Paraíba (IFPB) - Campus Esperança**
 - 🌍 Falo **Português** nativamente e tenho nível **Avançado (C1 Effective Proficiency)** em **Inglês** (Certificação: **EF SET English Certificate**)
-- 💬 Pergunte-me sobre **Desenvolvimento Backend com Java, Spring, Angular, ReactJS**, **Docker e Conteinerização de Aplicações**, **Boas Práticas de Código**
+- 💬 Pergunte-me sobre **Desenvolvimento Backend com Java, Spring, Angular, ReactJS**, **Docker e Conteinerização de Aplicações**, **Banco de Dados com PostgreSQL, MongoDB e Redis**, **Boas Práticas de Código**
 
 ---
 
