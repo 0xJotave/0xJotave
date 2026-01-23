@@ -50,12 +50,6 @@
   </a>
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{0xJotave}/count.svg" /></p> 
-<br>
-</div>
-
 ---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b31b1b&height=120&section=footer"/>
