@@ -39,14 +39,6 @@
 
 ---
 
-## 🏆 Troféus GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xJotave&theme=darkhub" alt="Troféus do GitHub"/>
-</p>
-
----
-
 ## 📫 Entre em contato comigo:
 
 <div align="center">
