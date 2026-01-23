@@ -1,55 +1,38 @@
-<!-- Cabeçalho com uma animação de onda -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b31b1b&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=13678A&height=120&section=header"/>
 
-<!-- Mensagem de boas-vindas com efeito de digitação -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b31b1b&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+João+Victor+😄;Sou+um+desenvolvedor+e+estudante+🧑‍💻;Bem-vindo+ao+meu+perfil!+🏆)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=45C4B0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+João+Victor;Tenho+20+anos;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
----
-
-## 👨‍💻 Sobre mim
-- 🌱 Graduando **Análise e Desenvolvimento de Sistemas** no **Instituto Federal da Paraíba (IFPB) - Campus Esperança**
-- 🎓 Possuo um **Técnico em Informática** pelo **Instituto Federal da Paraíba (IFPB) - Campus Esperança**
-- 🌍 Falo **Português** nativamente e tenho nível **Avançado (C1 Effective Proficiency)** em **Inglês** (Certificação: **EF SET English Certificate**)
-- 💬 Pergunte-me sobre **Desenvolvimento Backend com Java, Spring, Angular, ReactJS**, **Docker e Conteinerização de Aplicações**, **Banco de Dados com PostgreSQL, MongoDB e Redis**, **Boas Práticas de Código**
-
----
-
-## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=0xJotave&theme=monokai&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
----
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xJotave&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xJotave&layout=compact&langs_count=8&theme=radical" alt="Linguagens mais usadas"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=0xJotave&show_icons=true&count_private=true&hide_border=true&title_color=DAFDBA&icon_color=9AEBA3&text_color=c9d1d9&bg_color=0d1117" alt="0xJotave github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xJotave&layout=compact&hide_border=true&title_color=DAFDBA&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
----
 
-## 📫 Entre em contato comigo:
+<div align="center"> 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:joaovmb15@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/0xJotave/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0d1117)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/0xJotave/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:joaovmb15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
 
----
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b31b1b&height=120&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=13678A&height=120&section=footer"/>
