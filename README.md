@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=660066&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=303030&height=120&section=header"/>
 </p>
 
 <p align="center">
-<img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=0xJotave&theme=tokyonight&hide_border=true" />
+<img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=0xJotave&theme=onedark-duo&hide_border=true" />
 </p>
 
 <div align="center">
@@ -31,5 +31,5 @@
 </div>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=660066&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=303030&height=120&section=footer"/>
 </p>
